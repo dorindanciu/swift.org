@@ -1,0 +1,5 @@
+Theme name:    Swift.org
+Description:   This is a custom theme inspired from swift.org.
+Author name:   Dorin Danciu
+Author site:   https://dorindanciu.com
+License:       https://creativecommons.org/licenses/by/4.0/
